@@ -15,9 +15,9 @@
 </p>
 
 <br />
-<P>
+
 Hi, I'm Vishal Shukla, a Full Stack Developer 🚀 from India. Beside's programming, I enjoy playing football.
-</p>
+
   <img align="right" alt="GIF" src="https://github.com/devvishalshukla/devvishalshukla/blob/main/code.gif?raw=true" width="500" height="300" />
 
 **Languages and Tools:**  
