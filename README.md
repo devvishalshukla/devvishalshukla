@@ -3,7 +3,7 @@
 <a href="#" target="_blank">
   <img align="left" alt="Vishal's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
-<a href="https://www.hackerrank.com/vishalshukla?hr_r=1" target="_blank"
+<a href="https://www.hackerrank.com/vishalshukla?hr_r=1" target="_blank">
   <img align="left" alt="Vishal's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/hackerrank.svg" />
 </a>
 <a href="https://www.linkedin.com/in/vishal-shukla-703858175/" target="_blank">
