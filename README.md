@@ -18,4 +18,12 @@
 <P align="left">
 Hi, I'm Vishal Shukla, a Full Stack Developer 🚀 from India. Beside's programming, I enjoy playing football.
 </p>
-  <img align="right" alt="GIF" src="https://github.com/devvishalshukla/devvishalshukla/blob/main/code.gif?raw=true" width="400" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/devvishalshukla/devvishalshukla/blob/main/code.gif?raw=true" width="500" height="300" />
+
+**Languages and Tools:**  
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
