@@ -30,7 +30,7 @@ React, GraphQL and Typescript.
 
 ### 🚧 I build with...
 
-<p>
+<p align="center"> 
  
   <img src="https://raw.githubusercontent.com/vishalshuklag/vishalshuklag/main/Resources/dev/php.svg" alt="PHP" style="vertical-align:top; margin:4px">
   
@@ -43,3 +43,14 @@ React, GraphQL and Typescript.
   <img src="https://raw.githubusercontent.com/vishalshuklag/vishalshuklag/main/Resources/dev/bootstrap.svg" alt="Bootstrap" style="vertical-align:top; margin:4px">
   
 </p>
+
+## Github Stats
+
+![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalshuklag&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalshuklag&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vishalshuklag&repo=vanillawebprojects)](https://github.com/vishalshuklag/vanillawebprojects)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vishalshuklag&repo=college-visitor-management)](https://github.com/vishalshuklag/college-visitor-management)
+
